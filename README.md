@@ -12,7 +12,7 @@ The inscriptions protocol is entirely client-side validated, with the Bitcoin bl
 The Ordinals system of rarity is arbitrary, meaning assets such NFTs, security tokens, accounts or stablecoins can be attached to Ordinals. Alternative approaches to assess "rarity" have been suggested, including the recognition of “early” satoshis mined in blocks within the first year of Bitcoin’s launch or prioritizing Satoshis that possess distinctive mathematical properties, such as being prime numbers or exhibiting other unique characteristics. Recently, a market has emerged for “uncommon” satoshis, specifically the first satoshis in ordinary blocks, with a current selling price of 0.03 BTC or $750. Learn more:
 https://docs.ordinals.com/overview.html
 
-Like it or not, inscriptions are becoming part of a prototypical "circular economy" of Bitcoin - entirely contained within the Bitcoin ecosystem (value creation, value transfer, etc.). Use of the ordinals protocol requires people to run their own _economic nodes_ which is probably a good thing.
+Like it or not, inscriptions are becoming part of a prototypical "circular economy" of Bitcoin - entirely contained within the Bitcoin ecosystem (value creation, value transfer, etc.). Use of the ordinals protocol requires people to run their own _economic nodes_ which is probably a good thing. Additionally, the Ordinals phenomenon is contributing to making people more aware of Bitcoin fees (sats/byte) as well as understanding the UTXO model.
 
 ## BRC20
 
