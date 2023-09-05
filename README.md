@@ -65,6 +65,9 @@ Arguably, BRC-20 is responsible for most of the UTXO bloat being observed.
 
 Although probably not the best name (what is well named in this space, anyway?) recursive inscriptions are a way to look-up and re-use inscriptions to make efficient and cool new  inscribed artifacts possible _in a highly composible way_.
 
+Example of a recursive inscription using a 3d rendering engine:
+https://ord.osura.com/inscription/1b8b99c061dfeb875524228523906be678c87a4427308732e9d7ce6e6bc1487fi0
+
 Look-ups are a fundamental “divide and conquer” approach to solving programming challenges. This approach was pioneered in NFT collections by projects such as @OnChainMonkey among others.
 The first thing to recall is that the ordinals/inscription protocol themselves are interpreted and rendered on the client side (in this case the browser).
 This means that inscriptions can run any code that can run in a browser, which these days can mean a lot of things. For example folks <example> have inscribed 3d rendering engines that can be used to render other inscriptions. 
