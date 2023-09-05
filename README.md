@@ -5,9 +5,11 @@ The idea of putting noteworthy data on the Bitcoin blockchain has been with us s
 
 Ordinals is a system of individually identifying and numbering satoshis, commonly referred to as “sats.” Satoshis are the smallest unit of accounting in Bitcoin (100 million sats make up one Bitcoin). The official Ordinals wallet software, known as “ORD,” is a protocol client and wallet that incorporates a unique feature. It assigns an ordinal number to each Satoshi based on the specific details of when, where, and how it was mined.
 
-The ORD wallet is the canonical way to perform inscriptions. It involves a two-step process involving a commit transaction and a reveal transaction which are utilized to write data or metadata to the witness data section of a taproot transaction. This process serves the purpose of creating NFTs, and in certain cases, fungible tokens.
+Inscriptions are a way of storing arbitrary data in the Bitcoin blockchain and attaching these to "sats".
 
-The Ordinals system of rarity is arbitrary, meaning assets such NFTs, security tokens, accounts or stablecoins can be attached to Ordinals. Alternative approaches have been suggested, including the recognition of “early” satoshis mined in blocks within the first year of Bitcoin’s launch or prioritizing Satoshis that possess distinctive mathematical properties, such as being prime numbers or exhibiting other unique characteristics. Recently, a market has emerged for “uncommon” satoshis, specifically the first satoshis in ordinary blocks, with a current selling price of 0.03 BTC or $750. Learn more:
+The inscriptions protocol is entirely client-side validated, with the Bitcoin blockchain serving as a method of both storage, and canonical ordering. The ORD wallet is the client for working with inscriptions directly, as well as the tool to perform inscriptions. It involves a two-step process involving a commit transaction and a reveal transaction which are utilized to write data or metadata to the witness data section of a taproot transaction. This process serves the purpose of creating NFTs, and in certain cases, fungible tokens.
+
+The Ordinals system of rarity is arbitrary, meaning assets such NFTs, security tokens, accounts or stablecoins can be attached to Ordinals. Alternative approaches to assess "rarity" have been suggested, including the recognition of “early” satoshis mined in blocks within the first year of Bitcoin’s launch or prioritizing Satoshis that possess distinctive mathematical properties, such as being prime numbers or exhibiting other unique characteristics. Recently, a market has emerged for “uncommon” satoshis, specifically the first satoshis in ordinary blocks, with a current selling price of 0.03 BTC or $750. Learn more:
 https://docs.ordinals.com/overview.html
 
 Like it or not, inscriptions are becoming part of a prototypical "circular economy" of Bitcoin - entirely contained within the Bitcoin ecosystem (value creation, value transfer, etc.). Use of the ordinals protocol requires people to run their own _economic nodes_ which is probably a good thing.
@@ -27,6 +29,8 @@ Another explorer and marketplace:
 https://ord.io
 
 There are lots of custodial and semi-custodial wallets, marketplaces, and services popping up, with Binance also recently entering the fray.
+e.g.
+https://unisat.io/market
 
 ## Noteworthy Ordinals Collections
 
