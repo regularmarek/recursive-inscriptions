@@ -54,7 +54,7 @@ Cypherpunk Manifesto:
 
 https://www.ord.io/1094462
 
-King James Bible
+King James Bible (thanks for the find, @SophiaSpirlock)
 https://ordinals.com/inscription/bd71fe5056db486acffaac31febcf70fc71326e844480f342b2e48aef7f57b9ei0
 
 ## Some notes
