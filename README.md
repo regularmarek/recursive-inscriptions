@@ -40,7 +40,7 @@ https://sating.io
 Instructions for finding rare sats yourself:
 https://docs.ordinals.com/guides/sat-hunting.html
 
-There are lots of custodial and semi-custodial wallets, marketplaces, and services popping up, with Binance also recently entering the fray.
+There are lots of custodial and somehwat decentralised marketplaces and services popping up, with Binance also recently entering the fray.
 e.g.
 https://unisat.io/market
 
