@@ -31,6 +31,12 @@ https://ord.io
 A web-based tool for finding rare sats:
 https://sating.io
 
+
+
+
+
+
+
 Instructions for finding rare sats yourself:
 https://docs.ordinals.com/guides/sat-hunting.html
 
