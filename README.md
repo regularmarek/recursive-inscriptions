@@ -28,8 +28,10 @@ Another explorer and marketplace:
 
 https://ord.io
 
-A tool for finding rare sats:
+A web-based tool for finding rare sats:
 https://sating.io
+Instructions for finding rare sats yourself:
+https://docs.ordinals.com/guides/sat-hunting.html
 
 There are lots of custodial and semi-custodial wallets, marketplaces, and services popping up, with Binance also recently entering the fray.
 e.g.
