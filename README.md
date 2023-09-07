@@ -30,6 +30,7 @@ https://ord.io
 
 A web-based tool for finding rare sats:
 https://sating.io
+
 Instructions for finding rare sats yourself:
 https://docs.ordinals.com/guides/sat-hunting.html
 
@@ -41,8 +42,11 @@ https://unisat.io/market
 
 ### Self-referential Bitcoin stuff
 
-People are "calling" particular bitcoin blocks for some reason:
+People are "calling" particular bitcoin blocks for some reason - enter Bitmaps:
 https://ordinalswallet.com/collection/bitmap
+
+A related project using Bitmaps to generate minecraft-like worlds:
+https://luminex.io/bitworld
 
 ### Games
 https://www.ord.io/1015
